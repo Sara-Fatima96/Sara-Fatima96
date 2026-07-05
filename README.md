@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Sara Fatima 👋
 
-<!--
-**Sara-Fatima96/Sara-Fatima96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
+I am a B.Tech student in Artificial Intelligence & Data Science passionate about transforming data into meaningful insights through analytics and visualization.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Data Analysis
+- Exploratory Data Analysis (EDA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+
+### 🏥 Hospital Emergency Room Analysis Dashboard
+- Python, Pandas, NumPy, Matplotlib, Power BI
+- Performed data cleaning, EDA, KPI analysis, and built an interactive dashboard.
+
+### 📚 Student Performance Analysis
+- Python, Pandas, Matplotlib
+- Analyzed student performance data and created insightful visualizations.
+
+### 🧠 Student Mental Health Analysis
+- Python, Pandas, NumPy, Matplotlib
+- Explored factors affecting student mental health through EDA.
+
+## 🎓 Education
+
+**B.Tech – Artificial Intelligence & Data Science**  
+Shadan Women's College of Engineering & Technology  
+Current CGPA: **8.71/10**
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/sara-fatima-data-analyst/
+- 📧 Email: sarafatima85334@gmail.com
